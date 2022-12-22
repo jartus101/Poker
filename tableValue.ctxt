@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=tableValue
+comment1.params=tableCards\ turn
+comment1.target=double\ tablePotentialValue(java.util.ArrayList,\ boolean)
+comment2.params=tableCards
+comment2.target=double\ tableRealValue(java.util.ArrayList)
+numComments=3

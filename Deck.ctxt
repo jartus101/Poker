@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Deck
+comment1.params=numOfDecks
+comment1.target=Deck(int)
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=suit\ number
+comment3.target=void\ addCard(int,\ int)
+comment4.params=card
+comment4.target=void\ addCard(Card)
+comment5.params=
+comment5.target=Card\ drawCard()
+numComments=6

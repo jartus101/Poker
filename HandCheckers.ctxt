@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HandCheckers
+comment1.params=cardNumsStraightFlush
+comment1.target=boolean\ straightChecker(java.util.ArrayList)
+comment2.params=cardNumsStraightFlush
+comment2.target=java.lang.String\ straightHigh(java.util.ArrayList)
+comment3.params=cardNumsStraightFlush
+comment3.target=java.lang.String\ straightLow(java.util.ArrayList)
+comment4.params=cardNumsStraight\ cardNumsStraightFlush\ straightFlushChecker
+comment4.target=boolean\ flushChecker(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList)
+comment5.params=cardNumsStraight\ cardNumsStraightFlush\ straightFlushChecker
+comment5.target=java.lang.String\ flushCheckerSuit(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList)
+comment6.params=straightFlushChecker
+comment6.target=boolean\ straightFlushChecker(java.util.ArrayList)
+comment7.params=straightFlushChecker
+comment7.target=java.lang.String\ straightFlushLC(java.util.ArrayList)
+comment8.params=straightFlushChecker
+comment8.target=java.lang.String\ straightFlushHC(java.util.ArrayList)
+numComments=9

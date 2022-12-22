@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=handWeight
+comment1.target=void\ Player(double)
+comment10.params=player\ potAmount
+comment10.target=void\ didntFold(Player,\ double)
+comment2.params=
+comment2.target=double\ getStack()
+comment3.params=i
+comment3.target=void\ setStack(double)
+comment4.params=
+comment4.target=double\ getWeight()
+comment5.params=i
+comment5.target=void\ setWeight(double)
+comment6.params=i
+comment6.target=void\ addWeight(double)
+comment7.params=deck
+comment7.target=java.util.ArrayList\ yourHand(Deck)
+comment8.params=playerCards
+comment8.target=double\ getHighCardVal(java.util.ArrayList)
+comment9.params=playerCards\ tableCards\ player\ playerName
+comment9.target=void\ checkHand(java.util.ArrayList,\ java.util.ArrayList,\ Player,\ java.lang.String)
+numComments=11

@@ -1,0 +1,9 @@
+import java.io.IOException;
+ 
+public class DisplayImageFromFile {
+ 
+    public static void main(String[] args) throws IOException{
+        window myWindow = new window();
+        myWindow.setVisible(true);
+    }
+}

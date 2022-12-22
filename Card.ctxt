@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=suit\ number
+comment1.target=Card(int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ print()
+comment2.params=
+comment2.target=int\ getNumber()
+comment3.params=
+comment3.target=int\ getSuitNumber()
+comment4.params=
+comment4.target=java.lang.String\ faceCard()
+comment5.params=number
+comment5.target=java.lang.String\ faceCard2(int)
+comment6.params=number
+comment6.target=int\ faceCard3(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ suit()
+comment8.params=suitNo
+comment8.target=java.lang.String\ suit(int)
+comment9.params=
+comment9.target=java.lang.String\ color()
+numComments=11

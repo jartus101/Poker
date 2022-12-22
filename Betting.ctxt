@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Betting
+comment1.params=playerCards\ pot
+comment1.target=double\ initialHand(java.util.ArrayList,\ double)
+comment2.params=playerCards\ tableCards\ player\ turn\ pot\ stack
+comment2.target=double\ betAmount(java.util.ArrayList,\ java.util.ArrayList,\ Player,\ boolean,\ double,\ double)
+comment3.params=playerCards\ tableCards\ player\ turn\ pot\ stack\ overbet\ bet
+comment3.target=double\ betResponse(java.util.ArrayList,\ java.util.ArrayList,\ Player,\ boolean,\ double,\ double,\ double,\ double)
+comment4.params=playerCards\ tableCards\ human\ computer\ turn\ pot\ stack
+comment4.target=double\ betting(java.util.ArrayList,\ java.util.ArrayList,\ Player,\ Player,\ boolean,\ double,\ double)
+numComments=5
